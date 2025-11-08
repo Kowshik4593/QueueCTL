@@ -1,0 +1,54 @@
+{
+  "jobs": [
+    {
+      "id": "dup",
+      "command": "echo one",
+      "state": "completed",
+      "attempts": 0,
+      "max_retries": 3,
+      "timeout": null,
+      "priority": 0,
+      "run_at": null,
+      "created_at": "2025-11-07T18:46:40.160123+00:00",
+      "updated_at": "2025-11-07T18:46:41.491818+00:00"
+    },
+    {
+      "id": "dup",
+      "command": "echo one",
+      "state": "completed",
+      "attempts": 0,
+      "max_retries": 3,
+      "timeout": null,
+      "priority": 0,
+      "run_at": null,
+      "created_at": "2025-11-07T18:46:40.354601+00:00",
+      "updated_at": "2025-11-07T18:46:41.491836+00:00"
+    },
+    {
+      "command": "badcmd",
+      "id": "10853796-0026-484f-a27a-aecd859893dd",
+      "state": "pending",
+      "attempts": 0,
+      "max_retries": 3,
+      "timeout": null,
+      "priority": 0,
+      "run_at": null,
+      "created_at": "2025-11-08T09:26:54.009967+00:00",
+      "updated_at": "2025-11-08T09:26:54.009967+00:00"
+    }
+  ],
+  "dlq": [
+    {
+      "command": "badcmd",
+      "id": "17ea488b-5c83-4830-bb2e-565f6e9d4841",
+      "state": "dead",
+      "attempts": 4,
+      "max_retries": 3,
+      "timeout": null,
+      "priority": 0,
+      "run_at": null,
+      "created_at": "2025-11-07T18:46:41.099544+00:00",
+      "updated_at": "2025-11-07T18:48:05.673689+00:00"
+    }
+  ]
+}
