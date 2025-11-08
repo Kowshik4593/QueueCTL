@@ -4,7 +4,13 @@ A production-grade **CLI-based background job queue** built with Python for the 
 QueueCTL supports multiple workers, exponential backoff retries, a Dead Letter Queue (DLQ), scheduled jobs, timeouts, and priority-based execution — all managed from a clean CLI interface.
 
 ---
+## 🎥 Demo Video
 
+Watch the live demonstration of **QueueCTL** here:
+
+👉 [QueueCTL CLI Demonstration (Kowshik Padala)](https://drive.google.com/file/d/1wnRNd5uoKoBNrbaGVZgBDuRUa5qLUe7H/view?usp=sharing)
+
+---    
 ## 🧠 Overview
 
 **QueueCTL** lets you enqueue shell commands as background jobs that run in worker processes.  
