@@ -8,7 +8,7 @@ QueueCTL supports multiple workers, exponential backoff retries, a Dead Letter Q
 
 Watch the live demonstration of **QueueCTL** here:
 
-👉 [QueueCTL CLI Demonstration (Kowshik Padala)](https://drive.google.com/file/d/1wnRNd5uoKoBNrbaGVZgBDuRUa5qLUe7H/view?usp=sharing)
+👉 [QueueCTL CLI Demonstration (Kowshik Padala)](https://drive.google.com/file/d/1gke-bNXJj1L3wXA2HK9nHG3Z9v-4lBrA/view?usp=sharing)
 
 ---    
 ## 🧠 Overview
